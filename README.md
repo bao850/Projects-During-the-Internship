@@ -12,3 +12,9 @@ Smart Payment Notification Speaker – An ESP32-based system that retrieves tran
     <br>
   Image 1.2. Back view of the PCB
 </p>
+<p align="center">
+ <img width="400" alt="image" src="https://github.com/user-attachments/assets/67d083bd-ef17-4da2-ac8e-66d18ce4470b" />
+    <br>
+  Image 1.3. Assembled speaker circuit displaying the received amount on the 7-segment LED
+</p>
+The image shows the assembled smart payment notification speaker system. An ESP32 development board is connected to several electronic modules and an 8-digit 7-segment LED display. The display shows the received transaction amount, while the speaker is connected to the system to provide audio notifications. The components are connected using jumper wires and powered through the circuit, demonstrating the completed hardware assembly of the smart payment notification system.
