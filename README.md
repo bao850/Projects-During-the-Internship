@@ -24,5 +24,6 @@ The image shows the assembled smart payment notification speaker system. An ESP3
   Image 1.4. SePay interface displaying updated transaction information
 </p>
 The image shows the SePay transaction management interface, where the system displays a list of recent bank transactions. Each transaction includes information such as the transaction ID, bank account, amount, transaction type, time, and reference code. The interface is used to monitor and update transaction data, which allows the smart payment notification system to detect new incoming payments and process the received amount automatically.
+
 # Smart Door Lock System
 Smart Door Lock System – An Arduino-based smart door lock system that uses RFID cards and a keypad for access control. The system stores passwords and authorized card IDs in EEPROM, displays system status on a 20×4 LCD, and activates a door lock when valid credentials are detected. It also supports adding or removing RFID cards, changing passwords, and triggering an alarm after multiple failed access attempts.
